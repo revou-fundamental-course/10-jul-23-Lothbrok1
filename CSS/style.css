@@ -3,6 +3,7 @@ body {
   background-image: url("/foto/bg.jpg");
   background-size: cover;
   background-position: center;
+  background-color:pink;
 }
 
 .container-1 {
